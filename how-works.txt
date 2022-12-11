@@ -1,0 +1,1 @@
+On graphic object creation -> writing to ReactJS app -> ReactJS app -> apk
